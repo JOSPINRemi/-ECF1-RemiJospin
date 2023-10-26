@@ -1,10 +1,1 @@
-[
-  {
-    "id": "1698307249432",
-    "title": "MyTestProject",
-    "description": "It's a project to test all api features",
-    "dateStart": "2023-10-25",
-    "dateEnd": "2023-10-27",
-    "status": "En attente"
-  }
-]
+[{"id":"1698307249432","title":"MyTestProject","description":"It's a project to test all api features","dateStart":"2023-10-25","dateEnd":"2023-10-27","status":"en-attente"}]
